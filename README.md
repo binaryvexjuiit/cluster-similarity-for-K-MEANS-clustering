@@ -4,23 +4,23 @@ We can define similarity between two clusters using MIN, MAX, group average, dis
 by an objective function like ward’s method that uses squared error. This Project showcase variants
 of k-means which uses an alternative distance measure . Also different K-Mean algorithms are also show cased various distribution of dataset to compare their outcomes
 
-**Algorithms:**<br> 
--kmeans Elkan
--kmeans Lloyd
--kmeans Manhatten
--MiniBatch KMeans
--Affinity Propagation
--Spectral Clustering
--Agglomerative Clustering
--DBSCAN
--OPTICS
--BIRCH
--Gaussian Mixture
+**Algorithms to use:**<br> 
+i) kmeans Elkan
+ii) kmeans Lloyd
+iii) kmeans Manhatten
+iv) MiniBatch KMeans
+v) Affinity Propagation
+vi) Spectral Clustering
+vii) Agglomerative Clustering
+viii) DBSCAN
+ix) OPTICS
+x) BIRCH
+xi) Gaussian Mixture
 
-**Distance Measurement:**<br>
--euclidean
--squared euclidean
--manhattan
--chebyshev
--canberra
--chi-square
+**Distance Measurement techniques to use:**<br>
+i) euclidean
+ii) squared euclidean
+iii) manhattan
+iv) chebyshev
+v) canberra
+vi) chi-square
