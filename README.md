@@ -1,5 +1,4 @@
-# K-means-Clustering-Distance
-# K-means Clustering Using Different Distance Measure Technique and Defining Inter Cluster Similarity.
+# K-means-Clustering-Similarity-Distance
 
 We can define similarity between two clusters using MIN, MAX, group average, distance between centroids, other methods driven
 by an objective function like ward’s method that uses squared error. This Project showcase variants
